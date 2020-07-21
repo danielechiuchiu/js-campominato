@@ -9,6 +9,7 @@ console.log('tentativi',contatore);
 var listaBombe = gioco(difficolta);
 console.log('bombe',listaBombe);
 //array che si riempirà con scelte utente
+
 var listaScelte = [];
 var scelta;
 // //inizio della partita
